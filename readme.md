@@ -1,7 +1,7 @@
 ## Forma de consumo.
 
 # Requisitos Previos:
-Docker y Git
+Docker, Git y Docker
 
 # Instalacion y uso.
 1. Clona este repositorio en tu máquina local:
