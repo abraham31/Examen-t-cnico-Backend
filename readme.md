@@ -9,8 +9,9 @@ Docker y Git
 3. Construye la imagen del contenedor Docker:
        docker build -t nombre-imagen .
 4. verifica que se creo y el nombre de la imagen.
-5. Ejecuta el contenedor Docker:
+       docker images
+6. Ejecuta el contenedor Docker:
        docker run -it -p 8000:8000 nombre-imagen
-6. Abre tu navegador web y accede a la aplicación en la siguiente dirección:
+7. Abre tu navegador web y accede a la aplicación en la siguiente dirección:
         http://localhost:8000/docs
-7. Comprueba los endpoint     
+8. Comprueba los endpoint     
